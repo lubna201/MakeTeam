@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Cristiano Ronaldo",
+        "team": "Juventus",
+        "salary": 3000,
+        "image":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec593cc431fb70007482137%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1321%26cropX2%3D3300%26cropY1%3D114%26cropY2%3D2093"
+    },
+    {
+        "name": "Lionel Messi",
+        "team": "Barcelona",
+        "salary": 2000,
+        "image":"https://icdn.football-espana.net/wp-content/uploads/2020/12/Lionel-Messi-III.jpg"
+    },
+    {
+        "name": "Robinho",
+        "team": "İstanbul Başakşehir F.K.",
+        "salary": 2500,
+        "image":"https://ichef.bbci.co.uk/news/624/cpsprodpb/76F8/production/_115865403_robinho_basakgetty.jpg"
+    },
+    {
+        "name": "Luis Suárez",
+        "team": "Atlético Madrid",
+        "salary": 1500,
+        "image":"https://www.fcbarcelona.com/photo-resources/2019/07/10/3e54c127-d844-4ee1-a377-4f47a4e7972f/su-rez2.jpg?width=1200&height=750"
+    },
+    {
+        "name": "Xavi",
+        "team": "Al Sadd SC",
+        "salary": 2300,
+        "image":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/03/29/15854716198076.jpg"
+    },
+    {
+        "name": "Andres Iniesta",
+        "team": "Vissel Kobe",
+        "salary": 1200,
+        "image":"https://images.daznservices.com/di/library/GOAL/5a/3a/andres-iniesta-barcelona_1w487sbjo8ux71ppcux8eb9vez.jpg?t=-1170776726&quality=60&w=1200&h=800"
+    },
+    {
+        "name": "Wayne Rooney",
+        "team": "Derby County Football Club",
+        "salary": 4533,
+        "image":"https://assets.manutd.com/AssetPicker/images/0/0/10/126/687700/Legends-Profile_Wayne-Rooney1523460268000.jpg"
+    },
+    {
+        "name": "Sergio Agüero",
+        "team": "Manchester City",
+        "salary": 3422,
+        "image":"https://resources.premierleague.com/premierleague/photo/2020/10/21/131abbf9-cfd4-45ab-a2b3-032b3faf918e/Sergio-Aguero.jpg"
+    },
+    {
+        "name": "Mesut Özil",
+        "team": "Fenerbahçe",
+        "salary": 6755,
+        "image":"https://cdn-japantimes.com/wp-content/uploads/2021/01/np_file_63536.jpeg"
+    },
+    {
+        "name": "David Villa",
+        "team": "Vissel Kobe",
+        "salary": 4533,
+        "image":"https://secure.static.goal.com/97500/97589_gallery.jpg"
+    },
+    {
+        "name": "Iker Casillas",
+        "team": "FC Porto",
+        "salary": 855,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Iker_Casillas_2.jpg"
+    },
+    {
+        "name": "samir nasri",
+        "team": "R.S.C. Anderlecht",
+        "salary": 2333,
+        "image":"https://i.guim.co.uk/img/media/4082f8fd7d0e4406f5d687aff20303ccf0ea8b9f/0_330_2333_1399/master/2333.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=98f8f4c4a5337e05730d001c91df6a83"
+    }
+]

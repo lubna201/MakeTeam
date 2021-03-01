@@ -1,0 +1,12 @@
+.header-name{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+.header {
+    text-align: center;
+}
+.header img{
+    height:200px;
+    margin-top: 50px;
+}

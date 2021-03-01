@@ -1,0 +1,19 @@
+.clubs{
+    display: flex;
+    border: 5px solid gray;
+    margin:20px;
+    text-align: start;
+    padding: 20px;
+}
+.clubs img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 20px;
+}
+.add-button{
+    cursor: pointer;
+}
+.add-button:hover{
+    background-color: rgba(25, 75, 238, 0.9);
+}
